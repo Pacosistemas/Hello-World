@@ -1,2 +1,2 @@
 # Hello-World
-prueba1
+Comenzamos entendiendo el entorno de GitHub
